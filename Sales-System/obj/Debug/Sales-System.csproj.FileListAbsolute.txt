@@ -1,0 +1,12 @@
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\bin\Debug\Sales-System.exe.config
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\bin\Debug\Sales-System.exe
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\bin\Debug\Sales-System.pdb
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales-System.csprojResolveAssemblyReference.cache
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales_System.frm_Menu.resources
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales_System.Properties.Resources.resources
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales-System.csproj.GenerateResource.cache
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales-System.csproj.CoreCompileInputs.cache
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales-System.exe
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales-System.pdb
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales_System.frm_categorias.resources
+E:\GITHUB\C-Sharp--Sales-System\Sales-System\obj\Debug\Sales_System.frm_produtos.resources
