@@ -25,3 +25,8 @@
 
 * Open the Microsoft SQL Server Management Studio;
 * Login with Windows Authentication;
+
+#### Creating DataBase and its tables
+- Click on New Database;
+- Click on New Table on the Database you created;
+- Create the fields and relationships;
