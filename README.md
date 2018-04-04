@@ -11,13 +11,13 @@
 - .NET Framework 4.5;
 
 #### Steps:
-1. Run <b>SQLServer2017-SSEI-Expr</b>;
+1. Run <b>SQLServer2017-SSEI-Expr</b> - (Download it [here](https://go.microsoft.com/fwlink/?linkid=853017));
   - Choose Basic installation;
   - Wait until the setup downloads the installation package and installs it automatically;
   - Click on the button Close to finish;
 
 
-2. Run <b>SSMS-Setup-PTB</b>;
+2. Run <b>SSMS-Setup-PTB</b> - (Download it [here](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms));
   - Next on everything;
   - Click on the button Install when a black screen pops up;
   - Choose the standard instance when it asks;
