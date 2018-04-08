@@ -1,0 +1,6 @@
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\obj\Debug\sistema.DAL.csproj.CoreCompileInputs.cache
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\bin\Debug\sistema.dll.config
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\bin\Debug\sistema.dll
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\bin\Debug\sistema.pdb
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\obj\Debug\sistema.dll
+E:\GITHUB\C-Sharp--Sales-System\ClassLibrary1\obj\Debug\sistema.pdb
